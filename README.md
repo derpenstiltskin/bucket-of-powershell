@@ -1,3 +1,3 @@
 # Bucket of PowerShell
 
-My collection of PowerShell scripts
+![It's Candy Mountain](https://raw.githubusercontent.com/derpenstiltskin/bucket-of-powershell/main/assets/candymountain.png)
