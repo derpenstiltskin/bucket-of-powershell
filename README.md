@@ -1,3 +1,5 @@
 # Bucket of PowerShell
 
-![It's Candy Mountain](https://raw.githubusercontent.com/derpenstiltskin/bucket-of-powershell/main/assets/candymountain.png)
+Collection of random PowerShell scripts.
+
+![Chum Bucket](https://raw.githubusercontent.com/derpenstiltskin/bucket-of-powershell/main/assets/bucket.png)
